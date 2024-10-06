@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.demoprj.app.AppTest" time="0.052" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.demoprj.app.AppTest" time="0.075" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.16.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\HPPROB~1\AppData\Local\Temp\surefire9352786769253052628\surefirebooter9657807964493715563.jar C:\Users\Hp ProBook 440 G8\AppData\Local\Temp\surefire9352786769253052628 2024-09-19T20-44-19_307-jvmRun1 surefire3245838073797348519tmp surefire_02723711803434292562tmp"/>
+    <property name="sun.java.command" value="C:\Users\HPPROB~1\AppData\Local\Temp\surefire7802776727507995179\surefirebooter506781999646710081.jar C:\Users\Hp ProBook 440 G8\AppData\Local\Temp\surefire7802776727507995179 2024-09-19T21-04-47_025-jvmRun1 surefire7435639476481299974tmp surefire_07869859132325077979tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Hp ProBook 440 G8\OneDrive\Desktop\demo\demoprj\target\test-classes;C:\Users\Hp ProBook 440 G8\OneDrive\Desktop\demo\demoprj\target\classes;C:\Users\Hp ProBook 440 G8\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Hp ProBook 440 G8\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\HPPROB~1\AppData\Local\Temp\surefire9352786769253052628\surefirebooter9657807964493715563.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HPPROB~1\AppData\Local\Temp\surefire7802776727507995179\surefirebooter506781999646710081.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.16.1+1-LTS-1"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.demoprj.app.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.demoprj.app.AppTest" time="0.006"/>
 </testsuite>
